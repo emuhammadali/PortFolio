@@ -176,7 +176,7 @@ header {
 #element {
     font-weight: 700;
     color: var(--primary);
-    font-size: 1.6rem;
+    font-size: 1.5rem;
 }
 
 .stats {
@@ -1169,3 +1169,4 @@ html {
         padding: 0.8rem;
     }
 }
+
